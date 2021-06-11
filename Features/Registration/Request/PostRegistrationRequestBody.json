@@ -1,0 +1,7 @@
+{
+  "name": "{{randomFirstName}} {{randomLastName}}",
+  "email": "{{email}}",
+  "phone": "{{phone}}",
+  "password": "{{password}}",
+  "personalDataProcessing": false
+}
